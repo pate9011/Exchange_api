@@ -1,0 +1,12 @@
+body{
+background-color: lightblue;
+}
+
+.container{
+border: 10px solid blue;
+display: flex;
+padding-left: 20%;
+padding-right: 20%;
+padding-top: 40%;
+padding-bottom: 40%;
+}
